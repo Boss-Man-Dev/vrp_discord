@@ -1,5 +1,8 @@
 # vrp_discord
-this repository requires node.js to function properly
+this repository requires node.js to function properly.
+
+node.js download link:
+  https://nodejs.org/en/download
 
 instructions:
   go to file direcotory
