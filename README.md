@@ -1,8 +1,9 @@
 # vrp_discord
-this repository required node.js
+this repository requires node.js to function properly
 
 instructions:
-run npm i in the file direcotry 
+  go to file direcotory
+  run npm i
 
 files to edit:
   config.json,
