@@ -1,0 +1,8 @@
+{
+  "testServer": "discord_server_id_number",
+  "clientId": "discor_bot_id_number",
+  "devs": [
+    "537017364588396555"         
+  ],
+  "mysql": true
+}
