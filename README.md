@@ -1,5 +1,7 @@
 # vrp_discord
-this repository requires node.js to function properly.
+this repository requires vrp & node.js to function properly.
+vRP: https://github.com/vRP-framework/vRP
+node.js: https://nodejs.org/en
 
 node.js download link:
   https://nodejs.org/en/download
