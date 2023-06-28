@@ -6,7 +6,7 @@ node.js download link:
 
 instructions:
   go to file direcotory
-  run npm i
+  run npm i & npm update
 
 files to edit:
   config.json,
