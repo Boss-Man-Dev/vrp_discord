@@ -15,7 +15,7 @@ files to edit:
   .env,
   cfg/cfg.lua
 
-Discord tutorial link:
+Discord bot tutorial link:
   https://youtu.be/8LXGChrVUjY
 
 Sample messages for joining leaving fivem server, and dying in the game.
