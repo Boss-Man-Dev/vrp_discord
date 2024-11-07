@@ -18,10 +18,9 @@ You can download and install Node.js from the following link:
 
   2. Navigate to the project directory in your terminal/command prompt.
 
-  3. Install the required Node.js dependencies by running the following commands:
+  3. Install the required Node.js dependencies  by running the following command:
 
     npm install
-    npm update
 
 ## Configuration Files
 
